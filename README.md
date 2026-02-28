@@ -435,7 +435,7 @@ The deployed demo performs per‑frame gesture recognition.
 6. Display stabilized label
 
 
-<video controls src=".gitignore/images/Hand Gesture Recognition Video.mp4" title="Title"></video>
+![alt text](.gitignore/images/demo.gif)
 
 ### Temporal Stabilization
 
