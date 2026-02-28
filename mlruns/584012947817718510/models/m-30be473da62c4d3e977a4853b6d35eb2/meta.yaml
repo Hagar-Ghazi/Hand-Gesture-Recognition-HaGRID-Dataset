@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/WellCome/Downloads/Hand Gesture Detection and
+  Classification Project/mlruns/584012947817718510/models/m-30be473da62c4d3e977a4853b6d35eb2/artifacts
+creation_timestamp: 1772279337418
+experiment_id: '584012947817718510'
+last_updated_timestamp: 1772279339984
+model_id: m-30be473da62c4d3e977a4853b6d35eb2
+model_type: null
+name: model
+source_run_id: 8ef3cfcbebcc481597deb057003205f2
+status: 2
+status_message: null

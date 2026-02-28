@@ -1,0 +1,7 @@
+XGBoost is a powerful implementation of gradient-boosted decision trees designed for speed and performance
+
+ Unlike Random Forest (where trees are built independently) XGBoost builds trees sequentially  where each new tree attempts to correct the errors of the previous ones
+
+It includes built-in penalties to prevent the model from becoming too complex which is helpful when landmarks are very similar
+
+Using eval_metric="mlogloss" allows the model to optimize specifically for multi-class gesture classification

@@ -1,0 +1,7 @@
+Despite the "regression" in its name this is a linear model used for classification
+
+It uses a logistic function to model the probability of a hand landmark set belonging to a specific gesture class
+
+It is computationally lightweight and serves as an excellent baseline to see if your gesture classes are linearly separable
+
+we have set max_iter=1000 to ensure the solver has enough time to converge on an optimal solution for your data

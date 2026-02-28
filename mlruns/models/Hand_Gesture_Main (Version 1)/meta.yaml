@@ -1,0 +1,16 @@
+aliases:
+  champion: '1'
+creation_timestamp: 1772281590929
+deployment_job_id: null
+deployment_job_state: null
+description: 'Version 1: Tuned SVM (The Champion)
+
+  Support Vector Machine with an RBF kernel, optimized using GridSearchCV
+
+  Uses landmark-based spatial coordinates from MediaPipe includes a balanced class
+  weight to handle any gesture frequency imbalances
+
+  Achieved the highest weighted F1-score and Accuracy in the comparison study'
+last_updated_timestamp: 1772282934438
+name: Hand_Gesture_Main (Version 1)
+workspace: default

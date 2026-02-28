@@ -1,0 +1,7 @@
+Support Vector Machine (SVM) - Tuned The SVM is particularly effective for high-dimensional landmark data It works by finding an optimal hyperplane that maximizes the margin (distance) between different gesture classes
+
+using the Radial Basis Function kernel which allows the model to handle non-linear relationships by mapping landmarks into a higher-dimensional space
+
+Through  GridSearchCV  we balancing the penalty for misclassification  C with the "reach" of a single training example gamma to find the best fit for your specific gestures
+
+By setting class_weight = 'balanced' we  ensure the model doesn't ignore gestures that might have fewer samples in your dataset

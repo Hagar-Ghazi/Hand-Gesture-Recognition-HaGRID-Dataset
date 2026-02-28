@@ -1,0 +1,21 @@
+creation_timestamp: 1772281590941
+current_stage: None
+deployment_job_state: null
+description: 'This is the top-performing model from the comparison study
+
+  It uses a Support Vector Machine (SVM) with an RBF kernel optimized via Grid Search
+
+  It is specifically tuned to recognize 21 hand landmarks provided by MediaPipe'
+last_updated_timestamp: 1772282882233
+model_id: m-027a0453b1484e9e922d22e42691704a
+name: Hand_Gesture_Main (Version 1)
+run_id: db7a774cb534491b9afc24cb3c3eb230
+run_link: ''
+source: models:/m-027a0453b1484e9e922d22e42691704a
+status: READY
+status_message: null
+storage_location: file:///C:/Users/WellCome/Downloads/Hand Gesture Detection and Classification
+  Project/mlruns/584012947817718510/models/m-027a0453b1484e9e922d22e42691704a/artifacts
+user_id: null
+version: 1
+workspace: default

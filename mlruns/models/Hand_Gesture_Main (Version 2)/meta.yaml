@@ -1,0 +1,15 @@
+aliases:
+  challenger: '1'
+creation_timestamp: 1772281962199
+deployment_job_id: null
+deployment_job_state: null
+description: 'XGBoost (The Challenger)
+
+  Extreme Gradient Boosting using the mlogloss evaluation metric
+
+  Sequential learning that focuses on correcting errors from previous trees
+
+  Very fast inference time;serves as a strong alternative for lower-power mobile devices'
+last_updated_timestamp: 1772283171493
+name: Hand_Gesture_Main (Version 2)
+workspace: default

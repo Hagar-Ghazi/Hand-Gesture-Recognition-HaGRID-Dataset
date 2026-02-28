@@ -1,0 +1,17 @@
+creation_timestamp: 1772281912840
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1772281912840
+model_id: m-4644be1900b0428ab6d5c011b4e1acf8
+name: Hand_Gesture_Main (Version 1)
+run_id: 42f2dc46922942b99d0264039f430ea2
+run_link: ''
+source: models:/m-4644be1900b0428ab6d5c011b4e1acf8
+status: READY
+status_message: null
+storage_location: file:///C:/Users/WellCome/Downloads/Hand Gesture Detection and Classification
+  Project/mlruns/584012947817718510/models/m-4644be1900b0428ab6d5c011b4e1acf8/artifacts
+user_id: null
+version: 2
+workspace: default

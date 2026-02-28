@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WellCome/Downloads/Hand Gesture Detection and Classification
+  Project/mlruns/584012947817718510/8ea5140bdbe042ceb3b2ec0d0503384e/artifacts
+end_time: 1772279334875
+entry_point_name: ''
+experiment_id: '584012947817718510'
+lifecycle_stage: active
+run_id: 8ea5140bdbe042ceb3b2ec0d0503384e
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772279322602
+status: 3
+tags: []
+user_id: WellCome

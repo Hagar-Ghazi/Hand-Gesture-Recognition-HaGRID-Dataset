@@ -1,0 +1,7 @@
+Random Forest is an ensemble learning method that constructs a multitude of decision trees during training
+
+For a new hand gesture, each individual tree "votes" for a class, and the model selects the gesture with the most votes
+
+It is less likely to overfit compared to a single decision tree and handles the variance in hand positions well
+
+With n_estimators =100,  model uses 100 different trees to make its final prediction
